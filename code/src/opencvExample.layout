@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1239" topLine="31" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="14004" topLine="362" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.h" open="0" top="0" tabpos="0">
+		<Cursor position="6322" topLine="103" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="766" topLine="19" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="206" topLine="0" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="8506" topLine="305" />
+	</File>
+	<File name="src\testApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="2186" topLine="70" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\app\ofAppBaseWindow.h" open="0" top="0" tabpos="5">
+		<Cursor position="215" topLine="1" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\app\ofAppGlutWindow.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="11100" topLine="375" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\app\ofAppRunner.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1111" topLine="24" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\utils\ofMath.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="773" topLine="28" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\utils\ofMath.h" open="1" top="0" tabpos="4">
+		<Cursor position="687" topLine="10" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\video\ofVideoPlayer.h" open="0" top="0" tabpos="0">
+		<Cursor position="1340" topLine="45" />
+	</File>
+</CodeBlocks_layout_file>
